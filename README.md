@@ -1,4 +1,9 @@
 # pandas_challenge
+Note: school_data_to_load is the path to the respective schools_complete.csv
+      student_data_to_load is the path to the respective students_complete.csv
+      Right now, both are under "Resources" relative to the parent directory 
+      While testing code, make sure the dataset path is provided correctly.
+      
 1.**Summarizes the analysis:**
   - Length of total schools is 15 and total student is 39,170.
   
